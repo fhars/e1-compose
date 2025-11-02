@@ -69,8 +69,6 @@ pub fn run() {
         utils::print_rule(replacement);
     }
     for (key, replacement) in dia_vowels {
-        print!("<dead_horn> <dead_breve> <{}>:", keys[key].to_uppercase());
-        utils::print_rule(&replacement.to_uppercase());
         print!("<dead_horn> <dead_breve> <{}>:", keys[key]);
         utils::print_rule(replacement);
     }
