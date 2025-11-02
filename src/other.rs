@@ -22,7 +22,7 @@ pub fn run() {
         "greater",
         "minus",
         "asciitilde",
-        "circumflex",
+        "dead_circumflex",
         "percent",
         "parenleft",
         "parenright",
