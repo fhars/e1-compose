@@ -71,6 +71,11 @@ pub fn run() {
         ("u", "ᵤ"),
         ("v", "ᵥ"),
         ("x", "ₓ"),
+        // The following will be added in the future:
+        // https://www.unicode.org/L2/L2024/24268-n5291-post-17-chart.pdf
+        // ("w", "₝"),
+        // ("y", "₞"),
+        // ("z", "₟"),
     ];
 
     for (key, replacement) in superscripts {
