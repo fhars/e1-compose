@@ -70,7 +70,7 @@ pub fn run() {
         ("t", "ₜ"),
         ("u", "ᵤ"),
         ("v", "ᵥ"),
-        ("w", "ₓ"),
+        ("x", "ₓ"),
     ];
 
     for (key, replacement) in superscripts {
