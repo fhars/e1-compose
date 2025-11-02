@@ -511,6 +511,7 @@
 <dead_breve> <dead_circumflex> <n>: "ⁿ" U207F
 <dead_breve> <dead_circumflex> <o>: "ᵒ" U1D52
 <dead_breve> <dead_circumflex> <p>: "ᵖ" U1D56
+<dead_breve> <dead_circumflex> <q>: "𐞥" U107A5
 <dead_breve> <dead_circumflex> <r>: "ʳ" U02B3
 <dead_breve> <dead_circumflex> <s>: "ˢ" U02E2
 <dead_breve> <dead_circumflex> <t>: "ᵗ" U1D57
@@ -522,8 +523,10 @@
 <dead_breve> <dead_circumflex> <z>: "ᶻ" U1DBB
 <dead_breve> <dead_circumflex> <A>: "ᴬ" U1D2C
 <dead_breve> <dead_circumflex> <B>: "ᴮ" U1D2E
+<dead_breve> <dead_circumflex> <C>: "ꟲ" UA7F2
 <dead_breve> <dead_circumflex> <D>: "ᴰ" U1D30
 <dead_breve> <dead_circumflex> <E>: "ᴱ" U1D31
+<dead_breve> <dead_circumflex> <F>: "ꟳ" UA7F3
 <dead_breve> <dead_circumflex> <G>: "ᴳ" U1D33
 <dead_breve> <dead_circumflex> <H>: "ᴴ" U1D34
 <dead_breve> <dead_circumflex> <I>: "ᴵ" U1D35
@@ -534,7 +537,9 @@
 <dead_breve> <dead_circumflex> <N>: "ᴺ" U1D3A
 <dead_breve> <dead_circumflex> <O>: "ᴼ" U1D3C
 <dead_breve> <dead_circumflex> <P>: "ᴾ" U1D3E
+<dead_breve> <dead_circumflex> <Q>: "ꟴ" UA7F4
 <dead_breve> <dead_circumflex> <R>: "ᴿ" U1D3F
+<dead_breve> <dead_circumflex> <S>: "꟱" UA7F1
 <dead_breve> <dead_circumflex> <T>: "ᵀ" U1D40
 <dead_breve> <dead_circumflex> <U>: "ᵁ" U1D41
 <dead_breve> <dead_circumflex> <V>: "ⱽ" U2C7D
@@ -555,7 +560,7 @@
 <dead_breve> <dead_caron> <t>: "ₜ" U209C
 <dead_breve> <dead_caron> <u>: "ᵤ" U1D64
 <dead_breve> <dead_caron> <v>: "ᵥ" U1D65
-<dead_breve> <dead_caron> <w>: "ₓ" U2093
+<dead_breve> <dead_caron> <x>: "ₓ" U2093
 <dead_breve> <dead_abovering> <A>: "Ⓐ" U24B6
 <dead_breve> <dead_abovering> <a>: "ⓐ" U24D0
 <dead_breve> <dead_abovering> <B>: "Ⓑ" U24B7
