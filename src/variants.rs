@@ -84,7 +84,7 @@ pub fn run() {
     ];
 
     for (key, replacement) in superscripts {
-        print!("<dead_breve> <dead_circumflex> <{}>:", key);
+        print!("<dead_breve> <dead_macron> <{}>:", key);
         utils::print_rule(replacement)
     }
     for (key, replacement) in subscripts {
