@@ -20,16 +20,25 @@ pub fn run() {
         ("◌᪷", "dead_belowcomma", "dead_ogonek"),
     ];
     let deadkeys = [
-        ("dead_circumflex", "◌̂"),
-        ("dead_acute", "◌́"),
-        ("dead_grave", "◌̀"),
         ("dead_abovedot", "◌̇"),
-        ("dead_belowmacron", "◌̱"),
-        ("dead_cedilla", "◌̧"),
+        ("dead_abovering", "◌̊"),
+        ("dead_acute", "◌́"),
         ("dead_belowcomma", "◌̦"),
-        ("dead_ogonek", "◌̨"),
         ("dead_belowdot", "◌̣"),
+        ("dead_belowmacron", "◌̱"),
+        ("dead_breve", "◌̆"),
+        ("dead_caron", "◌̌"),
+        ("dead_cedilla", "◌̧"),
+        ("dead_circumflex", "◌̂"),
+        ("dead_diaeresis", "◌̈"),
+        ("dead_doubleacute", "◌̋"),
+        ("dead_grave", "◌̀"),
+        ("dead_hook", "◌̉"),
+        ("dead_horn", "◌̛"),
+        ("dead_macron", "◌̄"),
+        ("dead_ogonek", "◌̨"),
         ("dead_stroke", "◌̵"),
+        ("dead_tilde", "◌̃"),
     ];
     for (replacement, first, second) in chars {
         print!("<{}> <{}>:", first, second);
