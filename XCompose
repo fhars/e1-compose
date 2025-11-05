@@ -1,17 +1,21 @@
+<dead_doubleacute> <a> <0>: "a" U0061
 <dead_doubleacute> <a> <3>: "ɐ" U0250
 <dead_doubleacute> <a> <5>: "ɑ" U0251
 <dead_doubleacute> <a> <6>: "ɒ" U0252
 <dead_doubleacute> <a> <9>: "æ" U00E6
+<dead_doubleacute> <b> <0>: "b" U0062
 <dead_doubleacute> <b> <2>: "ʙ" U0299
 <dead_doubleacute> <b> <4>: "ɓ" U0253
 <dead_doubleacute> <b> <5>: "β" U03B2
 <dead_doubleacute> <b> <6>: "ꞵ" UA7B5
 <dead_doubleacute> <b> <8>: "[" U005B
 <dead_doubleacute> <b> <9>: "]" U005D
+<dead_doubleacute> <c> <0>: "c" U0063
 <dead_doubleacute> <c> <4>: "ƈ" U0188
 <dead_doubleacute> <c> <5>: "ç" U00E7
 <dead_doubleacute> <c> <6>: "ʗ" U0297
 <dead_doubleacute> <c> <8>: "ɕ" U0255
+<dead_doubleacute> <d> <0>: "d" U0064
 <dead_doubleacute> <d> <2>: "ᶑ" U1D91
 <dead_doubleacute> <d> <4>: "ɗ" U0257
 <dead_doubleacute> <d> <5>: "ð" U00F0
@@ -19,6 +23,7 @@
 <dead_doubleacute> <d> <7>: "ʣ" U02A3
 <dead_doubleacute> <d> <8>: "ʤ" U02A4
 <dead_doubleacute> <d> <9>: "ʥ" U02A5
+<dead_doubleacute> <e> <0>: "e" U0065
 <dead_doubleacute> <e> <1>: "ᵊ" U1D4A
 <dead_doubleacute> <e> <2>: "ɝ" U025D
 <dead_doubleacute> <e> <3>: "ə" U0259
@@ -28,12 +33,14 @@
 <dead_doubleacute> <e> <7>: "ɞ" U025E
 <dead_doubleacute> <e> <8>: "ʚ" U029A
 <dead_doubleacute> <e> <9>: "ɘ" U0258
+<dead_doubleacute> <f> <0>: "f" U0066
 <dead_doubleacute> <f> <1>: "ǀ" U01C0
 <dead_doubleacute> <f> <2>: "ǁ" U01C1
 <dead_doubleacute> <f> <3>: "ǂ" U01C2
 <dead_doubleacute> <f> <4>: "ǃ" U01C3
 <dead_doubleacute> <f> <5>: "ʘ" U0298
 <dead_doubleacute> <f> <7>: "ɸ" U0278
+<dead_doubleacute> <g> <0>: "g" U0067
 <dead_doubleacute> <g> <2>: "ɢ" U0262
 <dead_doubleacute> <g> <4>: "ɠ" U0260
 <dead_doubleacute> <g> <5>: "ɣ" U0263
@@ -41,6 +48,7 @@
 <dead_doubleacute> <g> <7>: "ʛ" U029B
 <dead_doubleacute> <g> <8>: "ɤ" U0264
 <dead_doubleacute> <g> <9>: "ˠ" U02E0
+<dead_doubleacute> <h> <0>: "h" U0068
 <dead_doubleacute> <h> <1>: "ʰ" U02B0
 <dead_doubleacute> <h> <2>: "ʜ" U029C
 <dead_doubleacute> <h> <3>: "ɥ" U0265
@@ -50,18 +58,22 @@
 <dead_doubleacute> <h> <7>: "ħ" U0127
 <dead_doubleacute> <h> <8>: "ʮ" U02AE
 <dead_doubleacute> <h> <9>: "ʯ" U02AF
+<dead_doubleacute> <i> <0>: "i" U0069
 <dead_doubleacute> <i> <2>: "ɪ" U026A
 <dead_doubleacute> <i> <5>: "ɩ" U0269
 <dead_doubleacute> <i> <7>: "ɨ" U0268
 <dead_doubleacute> <i> <8>: "ˑ" U02D1
 <dead_doubleacute> <i> <9>: "ː" U02D0
+<dead_doubleacute> <j> <0>: "j" U006A
 <dead_doubleacute> <j> <1>: "ʲ" U02B2
 <dead_doubleacute> <j> <6>: "ʝ" U029D
 <dead_doubleacute> <j> <7>: "ɟ" U025F
 <dead_doubleacute> <j> <8>: "ʄ" U0284
 <dead_doubleacute> <j> <9>: "‿" U203F
+<dead_doubleacute> <k> <0>: "k" U006B
 <dead_doubleacute> <k> <3>: "ʞ" U029E
 <dead_doubleacute> <k> <4>: "ƙ" U0199
+<dead_doubleacute> <l> <0>: "l" U006C
 <dead_doubleacute> <l> <1>: "ˡ" U02E1
 <dead_doubleacute> <l> <2>: "ʟ" U029F
 <dead_doubleacute> <l> <3>: "ƛ" U019B
@@ -71,9 +83,11 @@
 <dead_doubleacute> <l> <7>: "ɫ" U026B
 <dead_doubleacute> <l> <8>: "ȴ" U0234
 <dead_doubleacute> <l> <9>: "ɮ" U026E
+<dead_doubleacute> <m> <0>: "m" U006D
 <dead_doubleacute> <m> <3>: "ɯ" U026F
 <dead_doubleacute> <m> <6>: "ɱ" U0271
 <dead_doubleacute> <m> <8>: "ɰ" U0270
+<dead_doubleacute> <n> <0>: "n" U006E
 <dead_doubleacute> <n> <1>: "ⁿ" U207F
 <dead_doubleacute> <n> <2>: "ɴ" U0274
 <dead_doubleacute> <n> <5>: "ɳ" U0273
@@ -81,13 +95,16 @@
 <dead_doubleacute> <n> <7>: "ƞ" U019E
 <dead_doubleacute> <n> <8>: "ȵ" U0235
 <dead_doubleacute> <n> <9>: "ɲ" U0272
+<dead_doubleacute> <odiaeresis> <0>: "o" U006F
 <dead_doubleacute> <odiaeresis> <2>: "ɶ" U0276
 <dead_doubleacute> <odiaeresis> <5>: "ɷ" U0277
 <dead_doubleacute> <odiaeresis> <6>: "ɔ" U0254
 <dead_doubleacute> <odiaeresis> <7>: "ɵ" U0275
 <dead_doubleacute> <odiaeresis> <8>: "ø" U00F8
 <dead_doubleacute> <odiaeresis> <9>: "œ" U0153
+<dead_doubleacute> <p> <0>: "p" U0070
 <dead_doubleacute> <p> <4>: "ƥ" U01A5
+<dead_doubleacute> <q> <0>: "q" U0071
 <dead_doubleacute> <q> <1>: "ˤ" U02E4
 <dead_doubleacute> <q> <4>: "ʠ" U02A0
 <dead_doubleacute> <q> <5>: "ʔ" U0294
@@ -95,6 +112,7 @@
 <dead_doubleacute> <q> <7>: "ʡ" U02A1
 <dead_doubleacute> <q> <8>: "ʢ" U02A2
 <dead_doubleacute> <q> <9>: "ʖ" U0296
+<dead_doubleacute> <r> <0>: "r" U0072
 <dead_doubleacute> <r> <1>: "ɿ" U027F
 <dead_doubleacute> <r> <2>: "ʀ" U0280
 <dead_doubleacute> <r> <3>: "ɹ" U0279
@@ -104,11 +122,13 @@
 <dead_doubleacute> <r> <7>: "ɻ" U027B
 <dead_doubleacute> <r> <8>: "ɺ" U027A
 <dead_doubleacute> <r> <9>: "ɼ" U027C
+<dead_doubleacute> <s> <0>: "s" U0073
 <dead_doubleacute> <s> <1>: "ˢ" U02E2
 <dead_doubleacute> <s> <3>: "ʅ" U0285
 <dead_doubleacute> <s> <6>: "ʃ" U0283
 <dead_doubleacute> <s> <7>: "ʂ" U0282
 <dead_doubleacute> <s> <8>: "ʆ" U0286
+<dead_doubleacute> <t> <0>: "t" U0074
 <dead_doubleacute> <t> <3>: "ʇ" U0287
 <dead_doubleacute> <t> <4>: "ƭ" U01AD
 <dead_doubleacute> <t> <5>: "θ" U03B8
@@ -116,25 +136,31 @@
 <dead_doubleacute> <t> <7>: "ƫ" U01AB
 <dead_doubleacute> <t> <8>: "ȶ" U0236
 <dead_doubleacute> <t> <9>: "ᶿ" U1DBF
+<dead_doubleacute> <udiaeresis> <0>: "u" U0075
 <dead_doubleacute> <udiaeresis> <7>: "ʉ" U0289
 <dead_doubleacute> <udiaeresis> <8>: "ˌ" U02CC
 <dead_doubleacute> <udiaeresis> <9>: "ˈ" U02C8
+<dead_doubleacute> <v> <0>: "v" U0076
 <dead_doubleacute> <v> <3>: "ʌ" U028C
 <dead_doubleacute> <v> <4>: "ⱱ" U2C71
 <dead_doubleacute> <v> <5>: "ʋ" U028B
 <dead_doubleacute> <v> <8>: "|" U007C
 <dead_doubleacute> <v> <9>: "‖" U2016
+<dead_doubleacute> <w> <0>: "w" U0077
 <dead_doubleacute> <w> <1>: "ʷ" U02B7
 <dead_doubleacute> <w> <3>: "ʍ" U028D
+<dead_doubleacute> <x> <0>: "x" U0078
 <dead_doubleacute> <x> <1>: "ˣ" U02E3
 <dead_doubleacute> <x> <5>: "χ" U03C7
 <dead_doubleacute> <x> <7>: "ʦ" U02A6
 <dead_doubleacute> <x> <8>: "ʧ" U02A7
 <dead_doubleacute> <x> <9>: "ʨ" U02A8
+<dead_doubleacute> <y> <0>: "y" U0079
 <dead_doubleacute> <y> <1>: "ʸ" U02B8
 <dead_doubleacute> <y> <2>: "ʏ" U028F
 <dead_doubleacute> <y> <3>: "ʎ" U028E
 <dead_doubleacute> <y> <5>: "ʊ" U028A
+<dead_doubleacute> <z> <0>: "z" U007A
 <dead_doubleacute> <z> <5>: "ʒ" U0292
 <dead_doubleacute> <z> <6>: "ʐ" U0290
 <dead_doubleacute> <z> <7>: "ƻ" U01BB
@@ -280,22 +306,24 @@
 <dead_horn> <Z>: "Ζ" U0396
 <dead_horn> <z>: "ζ" U03B6
 <dead_horn> <ssharp>: "\x313" U0313 # Combining ◌̓
-<dead_horn> <dead_acute> <A>: "Ά" U0386
-<dead_horn> <dead_acute> <a>: "ά" U03AC
-<dead_horn> <dead_acute> <E>: "Έ" U0388
-<dead_horn> <dead_acute> <e>: "έ" U03AD
-<dead_horn> <dead_acute> <I>: "Ί" U038A
-<dead_horn> <dead_acute> <i>: "ί" U03AF
-<dead_horn> <dead_acute> <ODIAERESIS>: "Ό" U038C
-<dead_horn> <dead_acute> <odiaeresis>: "ό" U03CC
-<dead_horn> <dead_acute> <V>: "Ώ" U038F
-<dead_horn> <dead_acute> <v>: "ώ" U03CE
-<dead_horn> <dead_acute> <Y>: "Ύ" U038E
-<dead_horn> <dead_acute> <y>: "ύ" U03CD
-<dead_horn> <dead_breve> <I>: "Ι" U0399
-<dead_horn> <dead_breve> <i>: "ΐ" U0390
-<dead_horn> <dead_breve> <Y>: "Υ" U03A5
-<dead_horn> <dead_breve> <y>: "ΰ" U03B0
+<dead_acute> <dead_horn> <A>: "Ά" U0386
+<dead_acute> <dead_horn> <a>: "ά" U03AC
+<dead_acute> <dead_horn> <E>: "Έ" U0388
+<dead_acute> <dead_horn> <e>: "έ" U03AD
+<dead_acute> <dead_horn> <I>: "Ί" U038A
+<dead_acute> <dead_horn> <i>: "ί" U03AF
+<dead_acute> <dead_horn> <ODIAERESIS>: "Ό" U038C
+<dead_acute> <dead_horn> <odiaeresis>: "ό" U03CC
+<dead_acute> <dead_horn> <V>: "Ώ" U038F
+<dead_acute> <dead_horn> <v>: "ώ" U03CE
+<dead_acute> <dead_horn> <Y>: "Ύ" U038E
+<dead_acute> <dead_horn> <y>: "ύ" U03CD
+<dead_diaeresis> <dead_horn> <I>: "Ϊ" U03AA
+<dead_diaeresis> <dead_horn> <i>: "ϊ" U03CA
+<dead_diaeresis> <dead_horn> <Y>: "Ϋ" U03AB
+<dead_diaeresis> <dead_horn> <y>: "ϋ" U03CB
+<dead_breve> <dead_horn> <i>: "ΐ" U0390
+<dead_breve> <dead_horn> <y>: "ΰ" U03B0
 <dead_abovering> <A>: "Å" U00C5
 <dead_abovering> <a>: "å" U00E5
 <dead_abovering> <B>: "⇎" U21CE
@@ -382,7 +410,7 @@
 <dead_abovering> <7>: "⑦" U2466
 <dead_abovering> <8>: "⑧" U2467
 <dead_abovering> <9>: "⑨" U2468
-<dead_abovering> <0>: "⑩" U2469
+<dead_abovering> <0>: "⓪" U24EA
 <dead_breve> <1>: "⅓" U2153
 <dead_breve> <2>: "⅔" U2154
 <dead_horn> <1>: "⅛" U215B
@@ -451,7 +479,7 @@
 <dead_stroke> <greater>: "❧" U2767
 <dead_stroke> <minus>: "⸺" U2E3A
 <dead_stroke> <asciitilde>: "⁓" U2053
-<dead_stroke> <circumflex>: "ˆ" U02C6
+<dead_stroke> <dead_circumflex>: "ˆ" U02C6
 <dead_stroke> <percent>: "℔" U2114
 <dead_stroke> <parenleft>: "﴾" UFD3E
 <dead_stroke> <parenright>: "﴿" UFD3F
@@ -485,16 +513,25 @@
 <dead_belowcomma> <dead_horn>: "\x315" U0315 # Combining ◌̕
 <dead_belowcomma> <dead_belowmacron>: "\x332" U0332 # Combining ◌̲
 <dead_belowcomma> <dead_ogonek>: "\x1ab7" U1AB7 # Combining ◌᪷
-<dead_circumflex> <dead_circumflex>: "\x302" U0302 # Combining ◌̂
-<dead_acute> <dead_acute>: "\x301" U0301 # Combining ◌́
-<dead_grave> <dead_grave>: "\x300" U0300 # Combining ◌̀
 <dead_abovedot> <dead_abovedot>: "\x307" U0307 # Combining ◌̇
-<dead_belowmacron> <dead_belowmacron>: "\x331" U0331 # Combining ◌̱
-<dead_cedilla> <dead_cedilla>: "\x327" U0327 # Combining ◌̧
+<dead_abovering> <dead_abovering>: "\x30a" U030A # Combining ◌̊
+<dead_acute> <dead_acute>: "\x301" U0301 # Combining ◌́
 <dead_belowcomma> <dead_belowcomma>: "\x326" U0326 # Combining ◌̦
-<dead_ogonek> <dead_ogonek>: "\x328" U0328 # Combining ◌̨
 <dead_belowdot> <dead_belowdot>: "\x323" U0323 # Combining ◌̣
+<dead_belowmacron> <dead_belowmacron>: "\x331" U0331 # Combining ◌̱
+<dead_breve> <dead_breve>: "\x306" U0306 # Combining ◌̆
+<dead_caron> <dead_caron>: "\x30c" U030C # Combining ◌̌
+<dead_cedilla> <dead_cedilla>: "\x327" U0327 # Combining ◌̧
+<dead_circumflex> <dead_circumflex>: "\x302" U0302 # Combining ◌̂
+<dead_diaeresis> <dead_diaeresis>: "\x308" U0308 # Combining ◌̈
+<dead_doubleacute> <dead_doubleacute>: "\x30b" U030B # Combining ◌̋
+<dead_grave> <dead_grave>: "\x300" U0300 # Combining ◌̀
+<dead_hook> <dead_hook>: "\x309" U0309 # Combining ◌̉
+<dead_horn> <dead_horn>: "\x31b" U031B # Combining ◌̛
+<dead_macron> <dead_macron>: "\x304" U0304 # Combining ◌̄
+<dead_ogonek> <dead_ogonek>: "\x328" U0328 # Combining ◌̨
 <dead_stroke> <dead_stroke>: "\x335" U0335 # Combining ◌̵
+<dead_tilde> <dead_tilde>: "\x303" U0303 # Combining ◌̃
 <dead_breve> <dead_circumflex> <a>: "ᵃ" U1D43
 <dead_breve> <dead_circumflex> <b>: "ᵇ" U1D47
 <dead_breve> <dead_circumflex> <c>: "ᶜ" U1D9C
