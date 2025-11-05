@@ -51,7 +51,8 @@ pub fn run() {
         (21, "ώ"),
         (24, "ύ"),
     ];
-    let dia_vowels = [(8, "ΐ"), (24, "ΰ")];
+    let dia_vowels = [(8, "ϊ"), (24, "ϋ")];
+    let dia_tonos_vowels = [(8, "ΐ"), (24, "ΰ")];
     for (ix, key) in keys.iter().enumerate() {
         if !chars[0][ix].is_empty() {
             print!("<dead_horn> <{}>:", key.to_uppercase());
@@ -63,13 +64,24 @@ pub fn run() {
         }
     }
     for (key, replacement) in vowels {
-        print!("<dead_horn> <dead_acute> <{}>:", keys[key].to_uppercase());
+        print!("<dead_acute> <dead_horn> <{}>:", keys[key].to_uppercase());
         utils::print_rule(&replacement.to_uppercase());
-        print!("<dead_horn> <dead_acute> <{}>:", keys[key]);
+        print!("<dead_acute> <dead_horn> <{}>:", keys[key]);
         utils::print_rule(replacement);
     }
     for (key, replacement) in dia_vowels {
-        print!("<dead_horn> <dead_breve> <{}>:", keys[key]);
+        print!(
+            "<dead_diaeresis> <dead_horn> <{}>:",
+            keys[key].to_uppercase()
+        );
+        utils::print_rule(&replacement.to_uppercase());
+        print!("<dead_diaeresis> <dead_horn> <{}>:", keys[key]);
+        utils::print_rule(replacement);
+    }
+    for (key, replacement) in dia_tonos_vowels {
+        print!("<dead_breve> <dead_horn> <{}>:", keys[key].to_uppercase());
+        utils::print_rule(&replacement.to_uppercase());
+        print!("<dead_breve> <dead_horn> <{}>:", keys[key]);
         utils::print_rule(replacement);
     }
 }
