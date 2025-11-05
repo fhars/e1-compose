@@ -32,6 +32,10 @@ pub fn run() {
     ];
     let chars = [
         [
+            "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s",
+            "t", "u", "v", "w", "x", "y", "z",
+        ],
+        [
             "", "", "", "", "ᵊ", "ǀ", "", "ʰ", "", "ʲ", "", "ˡ", "", "ⁿ", "", "", "ˤ", "ɿ", "ˢ",
             "", "", "", "ʷ", "ˣ", "ʸ", "",
         ],
@@ -98,7 +102,7 @@ pub fn run() {
     for (ix, key) in keys.iter().enumerate() {
         for (num, row) in chars.iter().enumerate() {
             if !row[ix].is_empty() {
-                print!("<dead_doubleacute> <{}> <{}>:", key, (num + 1),);
+                print!("<dead_doubleacute> <{}> <{}>:", key, num,);
                 utils::print_rule(row[ix]);
             }
         }
